@@ -6,6 +6,8 @@ GEM
     mustermann (1.1.1)
       ruby2_keywords (~> 0.0.1)
     nio4r (2.5.7)
+    nokogiri (1.11.7-arm64-darwin)
+      racc (~> 1.4)
     nokogiri (1.11.7-x86_64-darwin)
       racc (~> 1.4)
     nokogiri (1.11.7-x86_64-linux)
@@ -29,6 +31,7 @@ GEM
     tilt (2.0.10)
 
 PLATFORMS
+  arm64-darwin-20
   x86_64-darwin-20
   x86_64-linux
 

@@ -1,0 +1,11 @@
+{
+  "name": "Leonardita API",
+  "description": "FI-UNAM API from scrapper Leonardita gem",
+  "addons": [],
+  "stack" : "heroku-20",
+  "buildpacks": [
+    {
+      "url": "heroku/ruby"
+    }
+  ]
+}
